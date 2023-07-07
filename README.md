@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi there 👋 I'm a developer, who is passionate about building products that make life better, writing performant code and understanding how complex systems work. I code in ruby and elxir most of the time, occasionally using go, typescript and rust.
+
+- 🌍 I love to travel a lot and develop a travel planning application - [Hamster Travel](https://github.com/anmarchenko/hamster-travel)
+- 🎮 Video games is another hobby of mine and it also deserves a hobby project - see [Igroteka](https://github.com/anmarchenko/igroteka)
+
 
 <!--
 **anmarchenko/anmarchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
