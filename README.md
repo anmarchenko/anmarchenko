@@ -2,7 +2,7 @@ Hi there 👋 I'm a developer passionate about building products that improve li
 
 - 🌍 Traveling is my favorite hobby, so I created [Hamster Travel](https://github.com/anmarchenko/hamster-travel) - the only travel planner I need - to make it even better.
 - 🎮 Video games is another hobby of mine, and I developed [Igroteka](https://github.com/anmarchenko/igroteka) to keep track of my gaming backlog.
-- ✍️ I also write occasionally on my [personal website](https://www.amarchenko.de).
+- ✍️ I also write from time to time on my [personal website](https://www.amarchenko.de).
 
 <!--
 **anmarchenko/anmarchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
