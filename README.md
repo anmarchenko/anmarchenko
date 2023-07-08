@@ -6,6 +6,6 @@ Hi there 👋 I'm a developer passionate about building products that improve li
 
 ### Work
 
-- 🛍️ @Shopify
-- 🚗 SHARE NOW
-- 🏗️ @kloeckner-i
+- 🛍️ [Shopify](https://github.com/Shopify)
+- 🚗 [SHARE NOW](https://www.share-now.com/de/en/)
+- 🏗️ [kloeckner-i](https://github.com/kloeckner-i)
