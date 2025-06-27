@@ -1,11 +1,12 @@
 Hi there 👋 I'm a software developer passionate about building the best products and delivering real impact - helping real people, increasing the revenue, and saving the dev team a headache.
-Currently I work on Datadog Test Optimization product that makes your tests go brr.
+
+Currently I work on Datadog Test Optimization product that makes your tests go brr 🏎️
 
 ### Writing
 - [How we built a Ruby library that saves 50% in testing time @ Datadog](https://www.datadoghq.com/blog/engineering/ruby-test-impact-analysis/)
 
 ### What I worked on
-- [Test Better, Build Better: The Betterment's Approach](https://www.youtube.com/watch?v=8uuZH-V6rbo) - how Betterment tamed their CI using Datadog Test Optimization and client library I built
+- [Test Better, Build Better: The Betterment Approach](https://www.youtube.com/watch?v=8uuZH-V6rbo) - how Betterment tamed their CI using Datadog Test Optimization and client library I built
 - [Adventures in garbage collection](https://shopify.engineering/adventures-in-garbage-collection) - how we chased down the issue that destroyed our p99 latency at Shopify
 
 ### Where I worked
