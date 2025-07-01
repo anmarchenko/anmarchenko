@@ -6,7 +6,7 @@ Currently I work on Datadog Test Optimization product that makes your tests go b
 - [How we built a Ruby library that saves 50% in testing time @ Datadog](https://www.datadoghq.com/blog/engineering/ruby-test-impact-analysis/)
 
 ### What I worked on
-- [Test Better, Build Better: The Betterment Approach](https://www.youtube.com/watch?v=8uuZH-V6rbo) - how Betterment tamed their CI using Datadog Test Optimization and client library I built
+- [Test Better, Build Better: The Betterment Approach](https://www.youtube.com/watch?v=8uuZH-V6rbo) - how Betterment tamed their CI using Datadog Test Optimization and the client library I built
 - [Adventures in garbage collection](https://shopify.engineering/adventures-in-garbage-collection) - how we chased down the issue that destroyed our p99 latency at Shopify
 
 ### Where I worked
