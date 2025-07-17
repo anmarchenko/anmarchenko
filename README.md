@@ -1,4 +1,4 @@
-Hi there 👋 I'm a software developer passionate about building the best products and delivering real impact - helping real people, increasing the revenue, and saving the dev team a headache.
+Hi there 👋 I'm a software developer passionate about building the best products and making real impact by solving hard problems, making people' lifes easire with my softare, and [delivering shareholder value](https://www.seangoedecke.com/shareholder-value/).
 
 Currently I work on Datadog Test Optimization product that makes your tests go brr 🏎️
 
