@@ -1,4 +1,6 @@
-Hi there 👋 I'm a developer passionate about building the best products and making real impact by solving hard problems and [delivering shareholder value](https://www.seangoedecke.com/shareholder-value/).
+Developer from Potsdam, Germany. 
+
+I am passionate about building the best products and making real impact by solving hard problems and [delivering shareholder value](https://www.seangoedecke.com/shareholder-value/).
 
 Currently I work on Datadog Test Optimization product that makes your tests go brr 🏎️
 
